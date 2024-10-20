@@ -3,7 +3,7 @@
 -- Selecciono todas las columnas de la tabla
 select *
 from "Customer";
--- Renombro la columna usando el comando AS
+--Lo que hago es que renombro la columna usando el comando AS
 select "CustomerId" as "ID"
 from "Customer";
 
